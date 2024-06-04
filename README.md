@@ -5,8 +5,7 @@ with symbols. It is inspired by the Clojure macro of the same name, however
 the nature of Common Lisp prohibits it from functioning identically.
 
 The tool is used mainly for mocking functions in test environments, or
-wrapping functions so that you can intercept and record their activity,
-also used primarily for testing.
+wrapping functions so that you can intercept and record their activity.
 
 *THIS IS A TEST TOOL, YOU SHOULD NOT USE IT IN CODE THAT GOES TO PRODUCTION ENVIRONMENTS*
 
