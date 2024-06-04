@@ -69,7 +69,7 @@ All tests were run at default compiler optimization settings. YMMV.
 - ABCL 1.9.0, OpenJDK 17.0.9: WORKS - with style warnings
 
   It might be nice to use `MUFFLE-WARNING` for the style warnings on
-  redefined functions, but for not that's left to the caller. Only ABCL
+  redefined functions, but for now that's left to the caller. Only ABCL
   issued such style warnings of the lisps tested here.
 
   Also allows symbols for new-function, though you should consider this non-portable.
